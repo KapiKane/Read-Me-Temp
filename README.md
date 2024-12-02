@@ -5,7 +5,7 @@ Aliquam enim erat, porta at neque ut.
   
 ## Name Here
 
-![Defult](https://img.shields.io/badge/Hello,_World!-Second_Line-blue)
+![Default](https://img.shields.io/badge/Hello,_World!-Second_Line-blue)
 
 ###### Color Examples: Black White Red Lime Blue Yellow Cyan Magenta Gray
 ###### Config: "_" == " " & "-" == Line between smtn & "-$color" adds a color
@@ -21,7 +21,24 @@ Desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 6. Creator(s)
 7. Lisense
 
-## Install
-- Arch
+## Installing
+Pacman:
+```
+sudo pacman -S LoremIpsum
+```
+Flatpak:
+```
+flatpak install org.kapikaine.LoremIpsum
+```
+Scoop:
+```
+scoop install loremipsum
+```
+## Bugs or Features?
+Visit [here](www.example.com) to report bugs or suggest features
 
-'''sudo pacman -S LoremIpsum
+## Socials
+![Instagram](https://img.shields.io/badge/Instagram-www.example.com-purple)
+![Youtube](https://img.shields.io/badge/Youtube-www.example.com-red)
+![Twitter](https://img.shields.io/badge/Twitter-www.example.com-blue)
+![Mastodon](https://img.shields.io/badge/Mastodon-www.example.com-green)
