@@ -19,4 +19,9 @@ Desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 4. Basics Of usage
 5. Features
 6. Creator(s)
-7. Lisense 
+7. Lisense
+
+## Install
+- Arch
+
+'''sudo pacman -S LoremIpsum
