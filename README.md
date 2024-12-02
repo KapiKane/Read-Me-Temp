@@ -38,7 +38,11 @@ scoop install loremipsum
 Visit [here](www.example.com) to report bugs or suggest features
 
 ## Socials
+<div align="center">
+    
 ![Instagram](https://img.shields.io/badge/Instagram-www.example.com-purple)
 ![Youtube](https://img.shields.io/badge/Youtube-www.example.com-red)
 ![Twitter](https://img.shields.io/badge/Twitter-www.example.com-blue)
 ![Mastodon](https://img.shields.io/badge/Mastodon-www.example.com-green)
+
+</div>
