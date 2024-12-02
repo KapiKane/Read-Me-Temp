@@ -16,7 +16,7 @@ Desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 1. Installing
 2. Bugs or Features?
 3. Socials
-4. Basics Of usage
+4. Basic Commands
 5. Features
 6. Creator(s)
 7. Lisense
@@ -46,3 +46,28 @@ Visit [here](www.example.com) to report bugs or suggest features
 ![Mastodon](https://img.shields.io/badge/Mastodon-www.example.com-green)
 
 </div>
+
+## Commands
+```
+loremipsum
+```
+Output
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+```
+
+## Features
+1. Prints Lorem Ipsum manuscript
+2. Ajustable translation
+3. Start with any word into Lorem Ipsum
+
+## Creator(s)
+- Kapikaine
+- Micro-Soft
+- Lorem Ipsum
+
+## License
+Creative Commons*
+
+
+###### *just dont profit off of it directly you fat baster-
