@@ -66,5 +66,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## License
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/640px-Cc_by-nc_icon.svg.png)
+
 This project is licenced under the [Creative Commons NonCommercial license](https://creativecommons.org/licenses/by-nc/4.0/)
 
