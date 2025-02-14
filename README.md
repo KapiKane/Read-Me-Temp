@@ -65,5 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Lorem Ipsum
 
 ## License
-![image](https://github.com/user-attachments/assets/8f1f9cf3-6bb9-4725-b31a-fed65b98d78a)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/640px-Cc_by-nc_icon.svg.png)
+This project is licenced under the [Creative Commons NonCommercial license](https://creativecommons.org/licenses/by-nc/4.0/)
 
