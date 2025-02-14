@@ -65,7 +65,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Lorem Ipsum
 
 ## License
-Creative Commons*
+![image](https://github.com/user-attachments/assets/8f1f9cf3-6bb9-4725-b31a-fed65b98d78a)
 
-
-###### *just dont profit off of it directly you fat baster-
